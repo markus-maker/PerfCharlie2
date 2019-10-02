@@ -45,4 +45,14 @@
         android:textSize="20sp"
         android:text="Hasil"
         android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tv_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="400dp"
+        android:text="copyright By : Markus HW (172520036), Muh Imam M (172520028)"
+        android:textSize="12dp"
+        android:textStyle="bold" />
 </LinearLayout>
